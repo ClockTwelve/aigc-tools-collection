@@ -1,2 +1,2 @@
-# aigc-tools-collection
+# AIGC TOOLS COLLECTION
 A collection of AIGC-like tools
