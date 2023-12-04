@@ -2,7 +2,8 @@
 A collection of AIGC-like tools
 
 ### Text To Text
-[Chatgpt](https://chat.openai.com/) --- OpenAIO
+[Chatgpt](https://chat.openai.com/) --- OpenAI
+[BingChat](https://www.bing.com/search?q=Bing+AI&showconv=1&FORM=hpcodx) --- Microsoft
 
 ### Text To Code
 [Codellama](https://github.com/facebookresearch/codellama) --- Facebook
